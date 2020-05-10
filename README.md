@@ -13,7 +13,7 @@ emosi saja, ada enam jenis emosi yang digunakan yaitu anger, fear, joy, dan sadn
 * Tokenization.
 * Stemming.
 
-## Feature extraction ##
+## Feature Extraction ##
 * bag of words.
 
 ## Method #
